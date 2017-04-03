@@ -67,5 +67,5 @@ openMP
 
 No desempenho openMP, encontrei basicamente os mesmos resultados que havia encontrado usando pthreads com o mesmo numero de threads,
 maior diferença encontrada foi que havia uma maior variação que usando o programa com pthreads.
-Talvez seja algum problema com o modo que usei, entao vou deixar como fiz o programa com openMP.
+Talvez seja algum problema com o modo que usei, entao vou deixar o programa com openMP na pasta.
 
