@@ -1,4 +1,7 @@
 Programação Paralela - Alan Bessauer Lencina 
+
+foi usado o Asus Vivobook S500CA com processadores Intel Core i7-3537U, frequencia de -2.0GHz, turbo -3.1GHz e 2 cores.
+
 ```
 Pthreads
 ```
