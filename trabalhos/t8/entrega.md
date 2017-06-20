@@ -1,6 +1,8 @@
 Alan Bessauer Lencina
 - Programacao Paralela
-Testes feito em um notebook Dell Inspiron 15 5000 com core i5-7200U, frequencia de 2.50 GHz ate 2.70GHz 8GB de RAM
+
+Testes feito em um notebook Dell Inspiron 15 5000 com core i5-7200U, frequencia de 2.50 GHz ate 2.70GHz 8GB de RAM.
+
 em maquina virtual de ubuntu com gcc 6.3.0-12ubuntu2.
 
 Fiz o MPI dinamico com varios grandes vetores, onde o trabalho e dividido pelo processo mestre entre os trabalhadores, em cada um dos
