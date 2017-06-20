@@ -17,7 +17,7 @@ int main(int argc, char* argv[]) {
   int indice, sender;
   int trabalho;
   working = 0;
-  end = 1;
+  end = 0;
   trabalho = 0;
   long wtime()
 {
@@ -84,7 +84,7 @@ int main(int argc, char* argv[]) {
 			i--;
 			while(1){
 			
-			if (end == 11){
+			if (end == 10){
 			i = 15;
 			for (x = 1;x < p;x++){
 				MPI_Send(&i, 1, MPI_INT, x, 0, MPI_COMM_WORLD);
